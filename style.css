@@ -1,0 +1,55 @@
+h1, h2, h3 {
+  text-align: center;
+}
+
+#index h1, #index p {
+  text-align: left;
+}
+
+#enterprise h2, #solution h1 {
+  margin-top: 48px;
+  margin-bottom: 48px;
+  line-height: 1.3em;
+}
+
+#hiring h2 {
+  margin-top: 48px;
+}
+
+#hiring p {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+#hiring .btn {
+  margin-top: 24px;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+#solution h1 {
+  margin-top: 28vh;
+}
+
+p {
+  text-align: center;
+}
+
+form {
+  margin-top: 36px;
+}
+
+label {
+  font-size: 24px;
+}
+
+select {
+  font-size: 18px;
+}
+
+textarea {
+  width: 400px;
+}
